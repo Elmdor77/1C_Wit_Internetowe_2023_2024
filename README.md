@@ -1,1 +1,1 @@
-# 1C_-Wit_Internetowe_2023_2024
+# 1C_Wit_Internetowe_2023_2024
