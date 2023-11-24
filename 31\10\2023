@@ -1,0 +1,56 @@
+KARTA PRACY:
+1
+___________________________________________________
+Wersja HTML   |     Element:	|	 Zamiennik W3C:    |  
+___________________________________________________|
+HTML 4.0:     |      <s>	    |	 	  <del> 		     |
+HTML 4.0:     |      <strike> |      <del> 	       |
+HTML 4.0:     |      <font>		|	   <span> 			   |
+HTML 4.0:     |     <CENTER>	|	    CSS	           |
+___________________________________________________|
+HTML 5.0: 	  |     <basefont>|	  <body>           |
+HTML 5.0:     |      <acronym>|   <abbr> / <span>  |		
+HTML 5.0:     |      <applet>	|     <canvas>		   |
+HTML 5.0: 	  |      <font>	  |      <span>        |
+HTML 5.0:     |       <big>   |      <span>        |
+HTML 5.0:		  |      <center> |       CSS          |
+___________________________________________________|
+
+2
+1 – Wersja 5 upraszcza zapis znaczników językowych (obecnie wystarczy zapis: <meta charset=”UTF-8″ />, wcześniejszy zapis wyglądał następująco: <meta http-equiv=”content-type” content=”text/html;charset=UTF-8″ />)
+2 – W języku HTML 5 usunięto przestarzałe instrukcje: <basefront>, <big>, <center>, <strike>, <frame>, <frameset>, <tt>.
+3 – W języku HTML 5 wprowadzono nowe instrukcje: <article>, <header>, <details>, <figure>, <nav>, <section>, <mark>, <time>, <audio>,<video>, <source>, <bdo>, <rp>.
+
+3
+HTML 4.0 - https://www.w3.org/TR/html4/
+HTML 4.01 - https://www.w3.org/TR/html401/
+HTML 5.0  - https://dev.w3.org/html5/spec-LC/
+
+
+Zad 1
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+Witryna internetowa   |  zwana też serwisem internetowym, to zbiór stron, adresów URL i podstron, które są powiązane ze sobą i udostępniane w internecie z jednego adresu domenowego. Witryna internetowa zazwyczaj jest zlokalizowana na jednym serwerze i zawiera informacje o różnych tematach. Witryna internetowa jest dostępna za pośrednictwem usługi WWW.                                                                                                                                           |
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________|                      
+Portal internetowy    |  witryna internetowa, która zawiera usługi stanowiące „bramę” do Internetu. Portale są zwykle wielotematyczne i oferują dostęp do różnorodnych informacji. Mogą to być portale informacyjne, biznesowe, społecznościowe, rozrywkowe itp. Portale często oferują darmowe usługi, np. pocztę elektroniczną, czy hosting.                                                                                                                                                              |
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________|                      
+Sklep internetowy     |serwis internetowy umożliwiający kupowanie i sprzedawanie produktów przez Internet. Jest to jedna z form handlu elektronicznego, która może być realizowana na wiele sposobów. Sklep internetowy jest częścią relacji B2C, rzadziej B2B1. Proces zakupowy realizowany jest najczęściej poprzez dodanie wybranych pozycji do koszyka oraz złożenie zamówienia online.                                                                                                                 |
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________|                     
+Blog tekstowy         | najpopularniejszy rodzaj bloga, w którym najczęściej wykorzystywanym środkiem przekazu jest tekst. Blogi tekstowe mają pewne cechy typowe dla tradycyjnych dzienników, takie jak: sposób tworzenia narracji, doraźność i referencjalność poruszanych zagadnień, elementy metatekstowe oraz swobodna forma wypowiedzi. Blog to pewien rodzaj strony internetowej składający się z samodzielnych, specyficznych, różnorodnych, odrębnych, oraz uporządkowanych chronologicznie wpisów.|
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________|                      
+Wideoblog             |rodzaj bloga internetowego, którego zasadniczą treść stanowią pliki filmowe publikowane przez autora w kolejności chronologicznej. Pliki udostępniane są do odtwarzania w technologii video-streamingu lub do pobrania na komputer użytkownika – gościa i widza wideobloga.                                                                                                                                                                                                          |
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________|
+Zadanie 2
+*Wortal internetowy. 
+Strona zajmuje się jedną określoną tematyką, w tym przypodku są to podręczniki szkolne i kształcenia zawodowego dla nauczycieli
+Zadanie 3
+</znacznik> tekst </znacznik> - Błędna
+<atrybut = "wartość"  > znacznik </atrybut> - Poprawna
+<tekst> znacznik </tekst> - Błedna
+<znacznik> tekst </znacznik> - Poprawna
+<znacznik atrybut = "wartość"> tekst </znacznik> - Błędna
+Test 1
+1 - A
+2 - D
+3 - C
+4 - C
+5 - A
