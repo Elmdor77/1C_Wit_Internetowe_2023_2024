@@ -1,0 +1,182 @@
+Karta pracy 1
+
+1.
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Document</title>
+</head>
+<body>
+<ul>
+<li>Punkt 1</li>
+<li>Punkt 2</li>
+<ul type = "circle">
+<li> Podpunkt 2.1 </li>
+<li>Podpunkt 2.2</li>
+<ul type = "square">
+<li>Podpunkt 2.1.1 </li>
+<li>Podpunkt 2.1.2</li>
+<li>Podpunkt 2.1.3</li>
+<li>Podpunkt 2.1.4</li>
+</ul>
+</ul>
+</ul>
+<ul>
+<li>Punkt 3</li>
+<li>Punkt 4</li>
+<ul type = "circle">
+<li>Podpunkt 4.1 </li>
+<li>Podpunkt 4.2</li>
+</ul>    
+</ul>
+</body>
+</html>
+
+2.
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Document</title>
+</head>
+<body>
+<ol type = "I">
+<li> Punkt pierwszy </li>
+<ol >
+<li>Podpunkt 1.1 </li>
+<ol type = "A">
+<li> Podpunkt 1.1.1 </li>
+<li>Podpunkt 1.1.2</li>
+<li>Podpunkt 1.1.3</li>
+</ol>
+<li> Podpunkt 1.2 </li>
+<ol type = "a">
+<li> Podpunkt 1.2.1 </li>
+<li>Podpunkt 1.2.2</li>
+<li>Podpunkt 1.2.3</li>
+</ol></ol>
+<li> Punkt drugi </li>
+</ol>
+</body>
+</html>
+
+Zad 1
+
+<!DOCTYPE html>
+<html lang="PL">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Przykład do zadania</title> 
+</head>
+<body STYLE = "background-color: rgba(98, 64, 64, 0.466);">    
+<span>
+<center>
+<h1 style="color : red">
+<pre>               
+MOŻLIWOŚCI UZYSKIWANIA DODATKOWYCH KWALFIKACJI
+W ZAWODACH W RAMACH OBSZARU KRZTAŁCENIA OKREŚLONEGO 
+W KLASYFIKACJI ZAWODÓW SZKOLNICTWA ZAWODOWEGO
+</pre>
+</h1></span>
+<pre>Absolwent szkoły krztałcącej w zawodzie 
+<u>technik informatyk</u> 
+po potwierdzeniu kwalfikacji:<span>
+<b>E.12.</b> Montaż i eksploatacja komputerów osobistych i urządzeń peryferyjnych,
+<b>E.13.</b> Projektowanie lokalnych sieci komputerowych i administrowanie sieciami,
+<b>E.14</b> Tworzenie aplikacji internetowych i baz danych i administrowanie bazami
+może uzyskać dyplom potwierdzający kwalfikację w zawodzie <u>technik teleinformatyk</u>, 
+po potwierdzeniu dodatkowych kwalfikacji:
+<b>E.15.</b> Uruchamianie i utrzymywanie terminali i przyłączy abonenckich
+<b>E.16.</b> Montaż i eksploatacja sieci rozległych
+</pre>
+</span>
+</center>
+</body>
+</html>
+
+Zad 2
+
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Document</title>
+</head>
+<body>
+<span style="font-family: 'Times New Roman', Times, serif">
+<center>
+<h1>Adam Mickiewicz </h1>
+</center>
+<h1>Pan Tadeusz czyli Ostatni Zajazd na Litwie </h1>
+<p ><h2>Księga pierwsza</h2></p>
+<p ><h3>Gospodarstwo</h3></p>
+<p >Litwo! Ojczyzno moja! ty jesteś jak zdrowie</p>
+<p >Ile cię trzeba cenić ten tylko się dowie,</p>
+<p>Kto cię stracił. Dziś piękność twą w całej ozdobie</p>
+<p>Widzę i opisuję bo tęsknię po tobie </p><p>
+</p><p>Panno Święta co Jasnej bronisz Częstochowy</p>
+<p>I w Ostrej Świecisz Bramie! Ty ,co gród zamkowy</p>
+<p>Nowogrodzki ochraniasz z jego wiernym ludem </p>
+<p>Jak mnie dziecko do zdrowia powróciłaś cudem</p>
+<p>(gdy od płaczącej matki pod twoją opiekę</p>
+<p>Ofiarowany, martwą podniosłem powiekę</p>
+<p>I zaraz mogłem pieszo do Twych świątyń progu</p>
+<p>Iść za wrócone życie podziękować Bogu)</p>
+<p>Tak nas powrócisz cudem na Ojczyzny łono</p>
+<p>Tymczasem przenoś moję duszę utęsknioną</p>
+<p>Do tych pagórków leśnych, do tych łąk zielonych </p>
+<p>Szeroko nad Błękitnym Niemnem rozciągnionych</p>
+<p>Do tych pól malowanych zbożem rozmaitem</p>
+<p>Wyzłacanych pszenicą, posrebrzanych żytem</p>
+<p>Gdzie bursztynowy świerzop, gryka jak śnieg białą</p>
+<p>Gdzie panieńskim rumieńcem dzięcielina pała</p>
+<p>A wszystko przepasane jakby wstęga miedzą</p>
+<p>Zieloną na niej z rzadka ciche grusze siedzą</p>
+<u></u>
+<center><h4>Grzegorz Kot</h4></center> 
+</span>
+</body>
+</html>
+
+Zad 3
+
+Znacznik |    Artykuł  |   Wartość |
+_________|_____________|___________|________
+<body>   |    bgcolor  |    red            |
+<a>      | href        |http://www.wsip.pl |
+<font>   |    face     |
+<p>      |             |    right          |
+<meta>   |    name     |                   |
+
+Test 3
+1. A
+2. C
+3. B
+4. A
+5. D
+
+Zad egz 1
+
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=0.5">
+<title>znaKI SPECJALNE </title>
+</head>
+<body>
+<ol >
+<li><span>W przypadku prowadzenia samochodu w stanie nietrzeźwości<b> powyżej</b> <b style = "color : red">0,5 promila</b> lub pod wpływem
+środka odurzającego grozi zakaz prowadzenia pojazdów ><b> 3 lat</b></li>
+<li><b>Znak towarowy</b> - prawnie chroniony niepowtarzalny element, skutecznie odróżniający go od 
+produktów lub usług konkurencyjnych oznaczamy symbolem<sup>TM</sup></li>
+<li>Kredyt dla młodych małżeństw może być przeznaczony na zakup mieszkania o powierzchni <<b>50m </b><sup>2</sup></sup>
+o wartości <b>20 000£</b></li></span>
+</ol>
+</body>
+</html>
