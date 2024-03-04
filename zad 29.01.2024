@@ -1,1 +1,143 @@
+Zad 1
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    Logowanie
+    <p>Login: <input type="text"></input> </p>
+    <p>Password: <input type="password"></input> </p>
+    <p><center><input type = "submit" value = "Wyślij"></center></p>
+</body>
+</html>
+
+Zad 2
+
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table border="1">
+       <tr><td center>Luty</td></tr>
+       <center><tr><td>Poniedziałek</td><td>Wtorek</td><td>Środa</td><td>Czwartek</td><td>Piątek</td><td>Sobota</td><td>Niedziela</td></tr></center>
+       <center><tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr></center>
+       <center><tr><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td></tr></center>
+       <center><tr><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td></tr></center>
+       <center><tr><td>22</td><td>23</td><td>24</td><td>25</td><td>26</td><td>27</td><td>28</td></tr></center>
+    </table>
+</body>
+</html>
+
+Zad 3
+
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <span style="color: black"><table border ="2" font - size>
+        <tr bgcolor="green" align="center"><td colspan = "3">Nagłówek na zielonym tle</td></tr>
+        <tr bgcolor="blue" align="center"><td>Nagłówek1</td><td>Nagłówek2</td><td>Nagłówek3</td></tr>
+        <tr bgcolor="brown"><td>Komórka1</td><td>Komórka2</td><td>Komórka3</td></tr>
+        <tr bgcolor="grey"><td>Komórka4</td><td>Komórka5</td><td>Komórka6</td></tr>
+    </table></span>
+</body>
+</html>
+
+Zad 4
+
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style = background-color:green>
+    Imię: &nbsp;<input type = "text"></input> &nbsp; 
+    Nazwisko:&nbsp; <input type = "text"></input>&nbsp;
+    Numer klasy : &nbsp;<input type = "text"></input>&nbsp;
+    <select>
+        <option>mężczyzna</option>
+        <option>kobieta</option>
+        <option>inne</option>
+    </select>
+    <p>
+       <center>
+            <select>
+                <option>polski</option>
+                <option>j.angielski</option>
+                <option>matematyka</option>
+            </select>&nbsp;
+            <select>
+                <option>podstawowy</option>
+                <option>rozszerzony</option>
+            </select>
+        </center>
+    </p>
+    <p></p>
+    <p>Komentarze <p><textarea rows = "7" cols = "10"></textarea></p></p>
+    <p></p>
+    <p>
+        <center>
+            <input type="button" value="Wyślij" > &nbsp;&nbsp;&nbsp;<input type="button" value="Wyczyść">
+        </center>
+    </p>
+</body>
+</html>
+
+Zad 5
+
+Atrybut       		           Zastosowanie		Znacznik
+type = "submit"  		          przyciski 		<input>
+scrolling = "no/yes/auto"		  scrolowanie    <body>
+maxlength = "x"			        długośc znaków 	 <input>
+cellspacing			            miejsce  komórek <table>
+id = "header"			      identyfikator elementu <h1>
+type ="text"			           pole tekstowe	 <input>
+
+Zad 6
+
+1."password" - umieszcza pole na hasło i gwiazdki
+2."submit" - przycisk
+3."reset" - czyści formularz
+4.."text" - pole tekstowe
+5."file" - plik do przesyłania
+
+Zad 7
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    Wybierz markę samochodu
+    <p>
+        <select>
+            <option > Opel</option>
+            <option > Toyota</option>
+            <option > Suzuki</option>
+            <option > Audi</option>
+            <option > Kia</option>
+            <option > Mercedes</option>
+        </select></p>
+</body>
+
+Zad 8
+
+
+</html>
