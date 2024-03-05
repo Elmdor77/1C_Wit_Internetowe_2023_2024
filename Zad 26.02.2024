@@ -1,1 +1,32 @@
-
+Zad 1
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <img src = "C:\Users\Uczen\Desktop\1C_Witryny_Internetowe_2024\26.02.24.zad 1\pociąg.jpg">
+    <br><object width = "100px" height = "100px" data = "pociąg.jpg" ></object></br>
+    <br><object width = "200px" height = "200px" data = "pociąg.jpg"></object></br>
+    <br><object width = "300px" height = "300px" data = "pociąg.jpg"></object></br>
+</body>
+</html>
+Zad 2 // nie zrobione
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <video src = "sunrise.jpg" WIDTH = "500px" height = "500px" poster = sunrise.jpg"">film</video>
+    <audio controls>
+	<br><object width = "100px" height = "100px" data = "sunrise.jng.jpg" ></object></br>
+        <source src = "Rick Astley - Never Gonna Give You Up (Official Music Video).mp3" type = "audio/mpeg">
+    </audio>
+</body>
+</html>
