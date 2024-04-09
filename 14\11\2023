@@ -1,5 +1,5 @@
 Karta pracy 1
-<!DOCTYPE html public "-//W3C//DTD HTML 4.01 Transitional//PL">
+<!DOCTYPE html >
 <html>
 <head> 
 <title> Moja strona </title> 
@@ -38,7 +38,7 @@ Test 2
 5. A
 
 Zad egzam 1
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!DOCTYPE HTML>
 <HTML>
 <HEAD>
 <META HTTP-EQUIV = "content-type" CONTENT = "text/html; charset=iso-8859-2">
