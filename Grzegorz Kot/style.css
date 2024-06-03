@@ -1,0 +1,19 @@
+.body{
+    background-color: rgb(13, 129, 150);
+    border: 5px solid rosybrown;
+    border-width: 10px;
+}
+.intro {
+    text-align: center;
+    color: blue;
+    font-size: 90px;
+    background-color: rgb(128, 10, 10);
+    border: 5px solid black;
+    border-width: 10px;
+}
+.firstParagrapth {
+    margin: 1px;
+    line-height: 1.5;
+    color:rgb(255, 100, 30);
+    font-size: 40px;
+}
