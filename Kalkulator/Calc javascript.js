@@ -1,0 +1,18 @@
+let firstNumber;
+let secondNumber;
+let finalNumber;
+let whatAction;
+firstNumber = prompt("Podaj pierwszy numer");
+secondNumber = prompt("Podaj drugi numer");
+finalNumber = (firstNumber) + (secondNumber);
+document.write("Wynik dodawania = ");
+document.write(finalNumber);
+finalNumber = firstNumber - secondNumber;
+document.write("Wynik odejmowania = ");
+document.write(finalNumber);
+finalNumber = firstNumber * secondNumber;
+document.write("Wynik mnozenia = ");
+document.write(finalNumber);
+finalNumber = firstNumber / secondNumber;
+document.write("Wynik dzielenia = ");
+document.write(finalNumber);
