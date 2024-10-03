@@ -1,0 +1,32 @@
+#tlo(
+  position="absolute";
+  <left>: 100px;
+  top: 100px,
+  z-index: 1;
+)
+*tekst {
+  position="absolute";
+  <left>:115px;
+  <top>:115px;
+  z-index: -400px;
+}
+
+Poprawiony kod
+
+.tlo{
+  position = absolute;
+  left: 100px;
+  top: 100px;
+  z-index: 1;
+}
+.tekst {
+  position = absolute;
+  left:115px;
+  top:115px;
+  z-index: 400;
+}
+
+klasy inicjuje sie kropką
+
+pozycje nie są wyrażane w cudzysłowach
+z-index zmienia warste pozycji wyrażany jest w samych literach oznaczałących warste i nie moze byc negatywny
