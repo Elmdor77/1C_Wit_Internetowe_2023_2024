@@ -1,0 +1,51 @@
+Zad 1
+ ______________________________________________________________________________________________________________________________________
+|					                              |Java Script								| PHP		                                                           |
+|Rok powstania 			                    |1995									                                            |1994		                     |
+|Główny autor				                    |Brendan Eich								                                      |Rasmusa Lerdorfa            |
+|Wykonywany po stronie klienta/serwera	|Głównie po stronie klienta ale może też być po stronie serwera		|Po stronie serwera          |
+|Numer ostatniej wersji			            |ECMAScript 2023							                                    |PHP 8		                   |
+|_______________________________________|_________________________________________________________________|____________________________|
+
+Zad 2
+
+Zalety:
+- umożliwiają twórcom stron internetowych tworzenie interaktywnych i dynamicznych interfejsów użytkownika
+- można tworzyć efekty wizualne, takie jak animacje, efekty przejścia i zmienianie zawartości strony bez konieczności przeładowywania całej strony
+- nie obciążają serwera
+- pozwalają na personalizację interfejsu użytkownika
+Wady:
+- mogą być podatne na ataki
+- nie są one zawsze obsługiwane przez stare przeglądarki
+- są widoczne dla użytkownika
+- może być łatwo odczytany i zmodyfikowany przez użytkownika
+
+Zad 3
+Zalety:
+- bardziej bezpieczne niż skrypty po stronie klienta
+- bardziej niezawodne
+- mogą wykorzystywać pełne zasoby serwera
+- są bardziej elastyczne
+Wady:
+- gorsza wydajność
+- są zależne od serwera
+- bardziej skomplikowane
+- trudniejsze do wdrożenia
+
+Zad 5
+Po wpisaniu dwóch liczb program podłączy ich sume pod osobną zmienną o nazwie "suma"
+Po tym porówna obie liczby i wyświetli mniejszą z nich 
+Jeżeli liczby będą równe program wyświetli drógą wpisaną liczbę
+
+Test 
+
+Zad 1 
+A
+Zad 2
+C
+Zad 3 
+D
+Zad 4
+A
+Zad 5
+D
